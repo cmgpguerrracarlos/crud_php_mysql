@@ -4,4 +4,4 @@
 
 ?>
 <br>
-<a href="index.php">regresar</a>
+<a href="./app.php">regresar</a>

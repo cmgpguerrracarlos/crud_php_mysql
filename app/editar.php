@@ -3,4 +3,4 @@
     echo "Se editara el cliete con id $id";
 ?>
 <br>
-<a href="index.php">regresar</a>
+<a href="./app.php">regresar</a>

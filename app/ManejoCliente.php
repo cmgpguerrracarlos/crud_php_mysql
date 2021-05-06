@@ -1,6 +1,5 @@
 <?
-    require './Cliente.php';
-    require './conexion.php';
+    require 'conexion.php';
 
     class ManejoCliente{
         

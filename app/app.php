@@ -53,14 +53,15 @@
                     echo "<td>$v2</td>";
                 }
                 $id = $v['id_cliente'];
-                echo "<td><a href='editar.php?id=$id'>editar</a></td><td><a href='borrar.php?id=$id'>borrar</a></td></tr>";
+                echo "<td><a href='./editar.php?id=$id'>editar</a></td>";
+                echo "<td><a href='./borrar.php?id=$id'>borrar</a></td></tr>";
             }
 
             ?>
         </tbody>
     </table>
     <br>
-    <a href="agregar.php">Agregar cliente</a>
+    <a href="./agregar.php">Agregar cliente</a>
 </body>
 
 </html>
